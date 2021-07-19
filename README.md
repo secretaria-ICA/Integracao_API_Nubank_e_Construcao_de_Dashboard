@@ -2,13 +2,14 @@
 Projeto Final de Curso BI Master 2019
 
 
-*Aluno:* Rafael Sousa Moreira
+**Aluno:** Rafael Sousa Moreira
 
-Orientador: Anderson Nascimento
+**Orientador:** Anderson Nascimento
 
 
 
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+  * Link para código: https://github.com/rmoreira7/tcc_bimaster
 
 
 <h2> Resumo: </h2>

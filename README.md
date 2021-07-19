@@ -2,7 +2,7 @@
 Projeto Final de Curso BI Master 2019
 
 
-Aluno: Rafael Sousa Moreira
+*Aluno:* Rafael Sousa Moreira
 
 Orientador: Anderson Nascimento
 

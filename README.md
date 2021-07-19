@@ -1,13 +1,13 @@
 # Integração API Nubank & Construção de Dashboard
 
-#### Aluno: Rafael Sousa Moreira (https://github.com/rmoreira7)
-#### Orientador: Anderson Nascimento
+#### Aluno: [Rafael Sousa Moreira] (https://github.com/rmoreira7)
+#### Orientador: [Anderson Nascimento]
 
 ---
 
-Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
-  - Link para código: https://github.com/rmoreira7/tcc_bimaster/blob/main/Jupyter%20Notebook.md
-  - Link para monografia: https://github.com/rmoreira7/tcc_bimaster/blob/main/TCC%20BI%20PUC.pdf
+Trabalho apresentado ao curso [BI MASTER] como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+- [Link para código:] https://github.com/rmoreira7/tcc_bimaster/blob/main/Jupyter%20Notebook.md
+- [Link para monografia:] https://github.com/rmoreira7/tcc_bimaster/blob/main/TCC%20BI%20PUC.pdf
 
 
 ### Resumo:

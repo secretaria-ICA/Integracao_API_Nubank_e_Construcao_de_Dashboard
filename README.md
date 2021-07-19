@@ -1,6 +1,4 @@
 # Integração API Nubank & Construção de Dashboard
-Projeto Final de Curso BI Master 2019
-
 
 #### Aluno: Rafael Sousa Moreira (https://github.com/rmoreira7)
 #### Orientador: Anderson Nascimento

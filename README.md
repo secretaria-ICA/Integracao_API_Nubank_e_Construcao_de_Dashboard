@@ -1,4 +1,4 @@
-# Integração API Nubank & Construção de Dashboard
+# Integração_API_Nubank_&_Construção_de_Dashboard
 
 #### Aluno: Rafael Sousa Moreira (https://github.com/rmoreira7)
 #### Orientador: Anderson Nascimento
